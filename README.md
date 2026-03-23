@@ -82,8 +82,7 @@ python main.py
 
 ## 📸 Output Preview
 
-
-![alt text](<Screenshot 2026-03-23 195440.png>)
+C:\Users\shahi\OneDrive\Pictures\Certificates\Screenshots
 
 
 
